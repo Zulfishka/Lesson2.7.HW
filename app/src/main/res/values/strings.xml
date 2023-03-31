@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Lesson2.7.HW</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="Hello">Hello</string>
+    <string name="Register">Register</string>
+    <string name="Password"></string>
+    <string name="country_of_origin">Country of Origin</string>
+    <string name="product_category">Product Category</string>
+    <string name="export_as_csv">Export as CSV</string>
+    <string name="current_policies">Current Policies</string>
+    <string name="brand">Brand</string>
+    <string name="origin_country">Origin Country</string>
+    <string name="product_category2">Product Category</string>
+    <string name="policy">Policy</string>
+    <string name="policies">Policies</string>
+
+</resources>
